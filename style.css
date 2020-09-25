@@ -1,0 +1,23 @@
+.container img {
+    max-width: 700px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
+
+#table {
+    background-color: black;
+    align-items: center;
+    align-content: flex-start;
+    text-align-last: center;
+    max-width: 1500px;
+    max-height: 900px;
+    height: auto;
+    width: auto;
+}
+
+body{
+    letter-spacing: normal;
+    word-spacing: 5px;
+    line-break: normal;
+}
